@@ -13,7 +13,7 @@ export default function Index() {
           resizeMode="cover"
         >
           <View style={styles.companyLogo}>
-            <Image source={require("@/assets/images/Logo.png")} />
+            <Image source={require("@/assets/images/logo.png")} />
           </View>
           <View style={styles.textGroup}>
             <Text style={styles.textLarge}>Find your favorite place here</Text>
