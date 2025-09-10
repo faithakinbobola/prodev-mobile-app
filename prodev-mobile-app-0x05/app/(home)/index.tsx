@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <View style={styles.container}>
             <View style={styles.searchGroup}>
-                <View style={styles.searchFormGrouup}>
+                <View style={styles.searchFormGroup}>
                     <View style={styles.searchControlGroup}>
                         <Text style={styles.searchFormText}>Where to?</Text>
                         <TextInput
